@@ -1,5 +1,7 @@
 # Data Processing and Storage
 **In-Memory Key-Value Database with Transactions**
+######
+**By Diksha Gupta**
 
 ## Description
 This project is a simple in-memory key-value database that supports transactions. Transactions allow making temporary changes to the database, which can either be committed (saved) or rolled back (discarded). The main features include:
@@ -13,14 +15,14 @@ This project is a simple in-memory key-value database that supports transactions
 
 ## How to run
 1. Clone the repository to your local machine. 
-   - git clone <repository-url>
-   - cd <repository-folder>
+   - git clone https://github.com/dikshaguptaa/InMemoryDB.git
+   - cd InMemoryDB
 2. Open the project in your preferred IDE (e.g., CLion for C++).
 3. Configure the project in your IDE if required (e.g., ensure the correct CMake configuration is loaded in CLion).
 3. Build the project by following your IDE's build instructions.
    - In CLion: Click Build > Build Project from the menu.
 4. Run the program and observe the output in the terminal.
-   - In CLion: Click Run > Run 'main' to execute the program and view the output in the terminal.
+   - In CLion: Click Run to execute the program and view the output in the terminal.
 
 ## Improvements for Future Assignments
 To make this assignment more effective as an official project:
